@@ -1,0 +1,1 @@
+RayWenderlich Coding Standard: https://github.com/raywenderlich/objective-c-style-guide
